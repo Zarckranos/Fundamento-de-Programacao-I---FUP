@@ -1,6 +1,5 @@
 #473219 - Matheus do Vale Almeida
 #473673 - Mateus Leal Gonçalves
-#472019 - Levy Rocha da Cruz
 
 import sys
 from Funcoes.funcoes import Funcoes
